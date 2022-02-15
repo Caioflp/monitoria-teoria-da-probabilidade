@@ -6,3 +6,7 @@ semestre de 2022.
 
 * Monitores: Caio Lins e Tiago da Silva,
 * Professor: Paulo Cézar P. Carvalho.
+
+## Vídeos das monitorias
+
+* 15/02: https://youtu.be/qZvu5GgtwIE
