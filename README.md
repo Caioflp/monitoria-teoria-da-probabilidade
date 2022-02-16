@@ -9,4 +9,4 @@ semestre de 2022.
 
 ## Vídeos das monitorias
 
-* 15/02: *em breve nos cinemas*
+* 15/02: Parte 1: https://youtu.be/5hp-G8IFq5o, Parte 2: https://youtu.be/voUHNYxfbKs
