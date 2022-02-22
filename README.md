@@ -10,6 +10,7 @@ semestre de 2022.
 ## Vídeos das monitorias
 
 * 15/02: Parte 1: https://youtu.be/5hp-G8IFq5o, Parte 2: https://youtu.be/voUHNYxfbKs
+* 22/02: *breve nos cinemas*.
 
 ## Exercícios 
 
@@ -17,4 +18,5 @@ semestre de 2022.
 | ---- | ---- | 
 | [15/02](./notes/monitoria-0215.pdf) | 4, 9, 12 (apostila); 29, 38, 48 (B&H) | 
 | [17/02](./notes/monitoria-0217.pdf) | 56, 59 (B&H) | 
+| [22/02](./notes/monitoria-0222.pdf) | 21, 32, 35, 40, 52, 56 (B&H) |
 
