@@ -1,0 +1,6 @@
+notes/*.tex
+notes/*.log
+notes/*.aux 
+notes/*.fdb_latexmk 
+notes/*.fls
+notes/*.synctex.gz 
