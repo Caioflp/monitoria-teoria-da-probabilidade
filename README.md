@@ -11,6 +11,7 @@ semestre de 2022.
 
 * 15/02: Parte 1: https://youtu.be/5hp-G8IFq5o, Parte 2: https://youtu.be/voUHNYxfbKs
 * 22/02: Parte 1: https://youtu.be/Kz5eTc6KUR4, Parte 2: https://youtu.be/nHYIkT9yE50, Parte 3: https://youtu.be/7-xJJJ5jgMY
+* 08/03: Parte 1: https://youtu.be/-2NHRlxvWz8, Parte 2: https://youtu.be/rHmDOGJ5bS8
 
 ## Exercícios 
 
